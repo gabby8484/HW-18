@@ -27,8 +27,7 @@ grid-template-areas:"header header header header""main main.sidebar""footer foot
 .grid-container{ display:grid;
 grid-template-areas: "myArea myAarea myArea myArea";}
 
-@media only sceen and(max-width:600){/*flex container dispalay flex column/width100px
-    */}
+@media only sceen and(max-width:600){/*flex container dispalay flex column/width 33Px*/}
 
 
  
