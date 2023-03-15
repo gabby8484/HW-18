@@ -1,0 +1,26 @@
+/*my UX skills section coded using css flex*/
+ .flexcontainer{
+    display:flex;
+    width: 33%;
+}
+/*tranquilList*/
+body {
+   background-color: blue;
+}
+.grid-container{display: grid;
+grid-template-columns: 25% 25% 25% 25%;}
+
+
+
+@media only screen and(max-width:600px){
+   .grid-container{
+
+   
+   grid-template-columns: 50% 50%
+   ;}
+   
+
+}
+
+
+ 
